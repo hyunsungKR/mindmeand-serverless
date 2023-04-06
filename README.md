@@ -49,6 +49,12 @@
 <img width="50%" height="45%" src="https://user-images.githubusercontent.com/120348500/229424452-450f3fe7-e649-4a56-866d-1c9c1100ffbc.png">
 
 
+# 📌 개발 기술서
+
+
+
+## [개발 기술서 확인하기(PDF)](https://github.com/hyunsungKR/mindmeand-serverless/files/11167022/mindmeand.pdf)
+
 
 
 
