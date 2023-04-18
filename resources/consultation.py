@@ -77,13 +77,14 @@ class ConsultationHistoryResource(Resource):
     def get(self) :
 
         userId = get_jwt_identity()
+        order = request.args.get('order') # asc or desc
 
         try :
             connection = get_connection()
 
             query = '''select * from consultation
                     where userId=%s
-                    order by createdAt desc;'''
+                    order by createdAt '''+order+''';'''
             
 
             cursor = connection.cursor(dictionary=True)
