@@ -53,7 +53,7 @@
 
 
 
-## [개발 기술서 확인하기(PDF)](https://github.com/hyunsungKR/mindmeand-serverless/files/11167022/mindmeand.pdf)
+## [프로젝트 기술서 확인하기(PDF)](https://github.com/hyunsungKR/mindmeand-serverless/files/11167022/mindmeand.pdf)
 
 
 
